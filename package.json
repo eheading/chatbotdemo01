@@ -1,0 +1,23 @@
+{
+  "name": "botbuilder-sample-luis",
+  "version": "1.0.0",
+  "description": "Bot Builder Sample - LUIS",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "desmond",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "botbuilder": "^3.8.2",
+    "dotenv-extended": "^1.0.4",
+    "request": "^2.79.0",
+    "restify": "^4.3.0"
+  }
+}
